@@ -61,7 +61,7 @@ const samuel = {
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| **Prevora** | Smart Cities Hackathon 2026 — plataforma para servidores públicos que mapeia descarte irregular e prevê coletas de lixo e alagamentos | Next.js, FastAPI, Leaflet, Vercel |
+| [**Prevora**]([https://github.com/W3LLCR0S/sistema-gestao-manutencao](https://github.com/luan-henrique-consani/smart-sities-londrina-grupo-ler))  | Smart Cities Hackathon 2026 — plataforma para servidores públicos que mapeia descarte irregular e prevê coletas de lixo e alagamentos | Next.js, FastAPI, Leaflet, Vercel |
 | [**Sistema de Gestão de Manutenção**](https://github.com/W3LLCR0S/sistema-gestao-manutencao) | Ciclo de vida da manutenção de equipamentos: abertura de OS, diagnóstico, reparo, aprovação e histórico | FastAPI, SQLAlchemy, PostgreSQL, React, TypeScript |
 | **Catálogo de Obras — Vectra** | Jornada de Aprendizagem SENAI — sistema web para catalogar e criar obras, com orçamentos e materiais usados em cada obra | React, MySQL |
 | [**TeamSwap**](https://github.com/W3LLCR0S/teamSwap) | App para colaboradores de plantas diferentes demonstrarem interesse e trocarem de planta entre si | Java, Spring Boot, HTML, CSS, JavaScript |
